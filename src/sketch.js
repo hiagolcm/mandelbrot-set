@@ -25,7 +25,7 @@ function setup() {
   radio.option("xˆ4", "func4");
   radio.value("func1");
 
-  radio.style("width", "40px");
+  radio.style("width", "200px");
   radio.style("color", "white");
   radio.position(19, 19);
 
