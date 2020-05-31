@@ -33,6 +33,7 @@ body {
   position: absolute;
   top: calc(50% - 250px);
   left: calc(50% - 250px);
+  cursor: zoom-in;
 }
 
 p {
