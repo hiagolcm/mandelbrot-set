@@ -55,7 +55,7 @@ function mandelbrotFunc (a,b) {
 // Draw the canvas
 function draw() {
   // number of iterations for the mandelbrot function
-  var maxiterations = 100;
+  var maxiterations = 200;
 
   // Loads the pixel data for the display window into the pixels[] array.
   loadPixels();
